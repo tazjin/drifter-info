@@ -1,8 +1,8 @@
 Gleaned Information
 ===================
 
-Gleaned Information is an item that drops under certain circumstances when a
-character is killed by Drifters or Circadian Seekers.
+Gleaned Information shows up in the inventory at the end of every Entosis cycle
+on a Jove Observatory.
 
 The Gleaned Information is visible in killmails (check for example [this one][])
 and based on the ItemIDs I fetched the ones that didn't drop during our tests
